@@ -84,31 +84,6 @@ int main()
     return 0;
 }
 
-/*Sure! This code represents a hierarchical structure of a book, with chapters, 
-sections, and subsections. It uses the Node class to create nodes 
-with a name and a vector of children nodes.
-
-The code begins by creating the root node, which represents the entire book. 
-Then, it creates chapter nodes and adds them as children of the book node. 
-Similarly, section nodes are created and added as children of the chapter nodes. 
-Finally, subsection nodes are created and added as children of the section nodes.
-
-After constructing the book structure, the code prints the nodes in a hierarchical 
-manner. It starts by printing the name of the book. Then, it iterates over each 
-chapter node and prints its name, followed by iterating over the section nodes and 
-printing their names, and finally iterating over the subsection nodes and printing 
-their names.
-
-The output of the code will display the hierarchy of the book, with each level 
-indented using tabs to indicate the nesting. This way, you can see the book's 
-chapters, sections, and subsections organized in a structured manner.
-
-Overall, this code demonstrates a simple implementation of a hierarchical data 
-structure using classes and vectors, allowing you to represent and traverse a 
-hierarchical book structure.*/
-
-
-
 
 
 
